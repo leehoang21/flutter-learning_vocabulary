@@ -1,0 +1,12 @@
+{
+  "login": "đăng nhập",
+  "register": "đăng ký",
+  "logout": "đăng xuất",
+  "home": "trang chủ",
+  "language": "ngôn ngữ",
+  "vietnamese": "tiếng Việt",
+  "english": "tiếng Anh",
+  "search": "tìm kiếm",
+  "email": "email",
+  "password": "mật khẩu"
+}

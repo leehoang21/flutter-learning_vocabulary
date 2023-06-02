@@ -1,0 +1,63 @@
+name: flutter_learning_english
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ">=2.19.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  pull_to_refresh: ^2.0.0
+  flutter_bloc: ^8.1.2
+  flutter_screenutil: ^5.8.1
+  flutter_translate: ^4.0.4
+  flutter_i18n: ^0.33.0
+  connectivity_plus: ^4.0.0
+  firebase_core: ^2.13.0
+  cloud_firestore: ^4.7.1
+  firebase_storage: ^11.2.1
+  equatable: ^2.0.5
+  get_it: ^7.6.0
+  intl: ^0.18.0
+  injectable: ^2.1.2
+  auto_route: ^7.4.0
+  isar: ^3.1.0+1
+  isar_flutter_libs: ^3.1.0+1
+  path_provider: ^2.0.15
+  flutter_svg: ^2.0.6
+  cached_network_image: ^3.2.3
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  injectable_generator: ^2.1.6
+  build_runner: ^2.4.4
+  auto_route_generator: ^7.1.1
+  isar_generator: ^3.1.0+1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+      - assets/icons/
+      - assets/images/
+      - assets/i18n/
+
+  fonts:
+    - family: QS
+      fonts:
+        - asset: assets/fonts/Quicksand-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Quicksand-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Quicksand-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Quicksand-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Quicksand-Bold.ttf
+          weight: 700

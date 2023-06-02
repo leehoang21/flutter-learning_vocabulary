@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "10158649816",
+    "project_id": "app-booking-c70a6",
+    "storage_bucket": "app-booking-c70a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10158649816:android:91c5261c1db0bc8e5a02ad",
+        "android_client_info": {
+          "package_name": "com.hoanglee.flutter_learning_english"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10158649816-sc57td9d0bujve43ggh2uotia5nnsga7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hoanglee.flutter_learning_english",
+            "certificate_hash": "8f67680f1d2974c95916c0c419dbfb2c06f4a32d"
+          }
+        },
+        {
+          "client_id": "10158649816-do7ouee2d402cb28b9d6qghufsko72hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIfn9mMVr99LxD338OhIkk1WD3E9RJt6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10158649816-do7ouee2d402cb28b9d6qghufsko72hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
